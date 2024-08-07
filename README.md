@@ -8,3 +8,5 @@ A video editor built with ReactJS and FFmpeg.
 - Play video
 - Trim video
 - Download video
+
+Built to as a side project.
